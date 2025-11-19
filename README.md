@@ -49,6 +49,11 @@ flowchart TD
     E --> S4
     E --> S5
     E --> S6
+    S1 --> F
+    S2 --> F
+    S3 --> F
+    S4 --> F
+    S5 --> F
 
     %% Tutorials Path
     S6 --> F
