@@ -58,4 +58,3 @@ flowchart TD
     S6 --> F
 ```
 
-A new Flutter project.
